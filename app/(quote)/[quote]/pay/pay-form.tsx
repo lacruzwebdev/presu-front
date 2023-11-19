@@ -52,7 +52,7 @@ export default function PayForm({
         elements,
         clientSecret,
         confirmParams: {
-          return_url: 'https://moovity.io'
+          return_url: 'https://lacruzwebdev.com'
         }
       })
     } catch (error) {
